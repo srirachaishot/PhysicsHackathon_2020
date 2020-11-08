@@ -29,3 +29,5 @@ The whole process is appliable to any similar set of data. The input of the data
 We display at the end the graphs of the distribution for both objects PN M1-46 & gam CrA A with the peaks for emission & absorbtion lines displayed.
 We also display the values of each emission & absorbtion line (all couples (wavelength, intensity)).
 
+In order to obtain the interactive component of the map, users will need to have the package mplcursors installed. The way in which to do so is type the command "pip install mplcursors" directly into your command line and wait until the download is complete. Afterwards you will now be able to run the code and be able to get specific information about the plot by hovering over points. 
+
