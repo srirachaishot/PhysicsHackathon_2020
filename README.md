@@ -2,7 +2,7 @@
 CFHT Challenge, Hackathon 2020
 Sneha Nair, Félix St-Denis, Patrick Horlaville
 
-* Please note, the code referred in this text is CFHT_Hackathon2020 *
+(Please note, the code referred in this text is Hackathon_CFHT_2.py)
 
 In order to generate the output asked, our idea was to make use of a scipy function that is able to find peaks in signals (scipy.signal.find_peaks).
 We used two parameters of that function:
